@@ -3,6 +3,9 @@ My favorite sports are basketball and football. I have been playing football sin
 I have 1 brother, hes in collage.
 My favorite basketball player is steph curry, and my favorite football player is messi.
 [steph curry}(https://www.youtube.com/watch?v=tRe4yzqT1NE) 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-
+![alt text]([[https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"](https://static.dw.com/image/59891785_101.jpg)](https://static.dw.com/image/59891785_101.jpg))
+| Tables        | Are           | Cool  |
+| Messi|:---------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
